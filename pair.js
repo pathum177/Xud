@@ -78,7 +78,7 @@ router.get('/', async (req, res) => {
               externalAdReply: {
                 title: "LUXALGO-XD",
                 thumbnailUrl: "https://files.catbox.moe/joo2gt.jpg",
-                sourceUrl: "https://whatsapp.com/channel/0029VaxOi76K5cDJkV9UYR0Q",
+                sourceUrl: "https://whatsapp.com/channel/0029Vb7bwXEEAKWNJgBICJ0w",
                 mediaType: 1,
                 renderLargerThumbnail: true
               }
